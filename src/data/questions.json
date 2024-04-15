@@ -1,0 +1,182 @@
+[
+    {
+        "qsn": 1,
+        "text": "What is the capital of India?",
+        "answers": [
+            {"text": "New Delhi", "isCorrect": true},
+            {"text": "Mumbai", "isCorrect": false},
+            {"text": "Kolkata", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 2,
+        "text": "Which is the largest planet in our solar system?",
+        "answers": [
+            {"text": "Jupiter", "isCorrect": true},
+            {"text": "Saturn", "isCorrect": false},
+            {"text": "Earth", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 3,
+        "text": "How many continents are there?",
+        "answers": [
+            {"text": "7", "isCorrect": true},
+            {"text": "5", "isCorrect": false},
+            {"text": "6", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 4,
+        "text": "Which bird can fly but cannot swim?",
+        "answers": [
+            {"text": "Ostrich", "isCorrect": true},
+            {"text": "Penguin", "isCorrect": false},
+            {"text": "Duck", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 5,
+        "text": "What is the capital of Australia?",
+        "answers": [
+            {"text": "Canberra", "isCorrect": true},
+            {"text": "Sydney", "isCorrect": false},
+            {"text": "Melbourne", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 6,
+        "text": "Which is the smallest planet in our solar system?",
+        "answers": [
+            {"text": "Mercury", "isCorrect": true},
+            {"text": "Pluto", "isCorrect": false},
+            {"text": "Mars", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 7,
+        "text": "How many colors are there in a rainbow?",
+        "answers": [
+            {"text": "7", "isCorrect": true},
+            {"text": "5", "isCorrect": false},
+            {"text": "6", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 8,
+        "text": "Which animal is known as the 'Ship of the Desert'?",
+        "answers": [
+            {"text": "Camel", "isCorrect": true},
+            {"text": "Elephant", "isCorrect": false},
+            {"text": "Horse", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 9,
+        "text": "What is the largest mammal in the world?",
+        "answers": [
+            {"text": "Blue Whale", "isCorrect": true},
+            {"text": "Elephant", "isCorrect": false},
+            {"text": "Giraffe", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 10,
+        "text": "Which is the hottest planet in our solar system?",
+        "answers": [
+            {"text": "Venus", "isCorrect": true},
+            {"text": "Mercury", "isCorrect": false},
+            {"text": "Mars", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 11,
+        "text": "How many bones are there in a human body?",
+        "answers": [
+            {"text": "206", "isCorrect": true},
+            {"text": "200", "isCorrect": false},
+            {"text": "210", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 12,
+        "text": "Which is the largest land animal?",
+        "answers": [
+            {"text": "Elephant", "isCorrect": true},
+            {"text": "Giraffe", "isCorrect": false},
+            {"text": "Hippopotamus", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 13,
+        "text": "Who invented the light bulb?",
+        "answers": [
+            {"text": "Thomas Edison", "isCorrect": true},
+            {"text": "Albert Einstein", "isCorrect": false},
+            {"text": "Isaac Newton", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 14,
+        "text": "Which is the largest ocean in the world?",
+        "answers": [
+            {"text": "Pacific Ocean", "isCorrect": true},
+            {"text": "Indian Ocean", "isCorrect": false},
+            {"text": "Atlantic Ocean", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 15,
+        "text": "How many sides does a triangle have?",
+        "answers": [
+            {"text": "3", "isCorrect": true},
+            {"text": "4", "isCorrect": false},
+            {"text": "5", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 16,
+        "text": "What is the largest organ in the human body?",
+        "answers": [
+            {"text": "Skin", "isCorrect": true},
+            {"text": "Heart", "isCorrect": false},
+            {"text": "Liver", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 17,
+        "text": "Which planet is known as the 'Red Planet'?",
+        "answers": [
+            {"text": "Mars", "isCorrect": true},
+            {"text": "Venus", "isCorrect": false},
+            {"text": "Mercury", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 18,
+        "text": "How many letters are there in the English alphabet?",
+        "answers": [
+            {"text": "26", "isCorrect": true},
+            {"text": "24", "isCorrect": false},
+            {"text": "28", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 19,
+        "text": "Which is the tallest mountain in the world?",
+        "answers": [
+            {"text": "Mount Everest", "isCorrect": true},
+            {"text": "K2", "isCorrect": false},
+            {"text": "Kangchenjunga", "isCorrect": false}
+        ]
+    },
+    {
+        "qsn": 20,
+        "text": "What is the largest continent?",
+        "answers": [
+            {"text": "Asia", "isCorrect": true},
+            {"text": "Africa", "isCorrect": false},
+            {"text": "Europe", "isCorrect": false}
+        ]
+    }
+]
